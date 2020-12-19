@@ -67,14 +67,23 @@ h2 {
 .mike {
   margin-bottom: 2%;
 }
-/* .about {
+
+.bio {
+  padding-left: 20%;
+  padding-right: 20%;
   text-align: center;
-} */
+}
 
-/* #about-paragraph {
-  /* text-align: left; */
-} */
+.instagram-icon {
+  color: inherit;
+  margin-top: 50px;
+}
 
+.etsy-icon {
+  color: inherit;
+  padding-top: 5%;
+  margin-top: 50px;
+}
 
 
 
