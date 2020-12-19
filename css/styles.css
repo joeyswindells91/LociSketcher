@@ -64,10 +64,16 @@ h2 {
 
 /* Start About Section */
 
-
-.about {
-  text-align: center;
+.mike {
+  margin-bottom: 2%;
 }
+/* .about {
+  text-align: center;
+} */
+
+/* #about-paragraph {
+  /* text-align: left; */
+} */
 
 
 
