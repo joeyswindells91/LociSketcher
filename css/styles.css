@@ -68,11 +68,26 @@ h2 {
   margin-bottom: 2%;
 }
 
-.bio {
+.about-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.map-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* .bio {
   padding-left: 20%;
   padding-right: 20%;
   text-align: center;
-}
+} */
 
 .instagram-icon {
   color: inherit;
