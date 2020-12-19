@@ -41,12 +41,13 @@ h2 {
   margin-bottom: 7%;
 }
 
-.images {
-  background-color: red;
-
+.pic {
+  line-height: 2;
 }
 
-
+.recent-image {
+  float: left;
+}
 
 
 
