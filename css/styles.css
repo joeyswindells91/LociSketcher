@@ -95,19 +95,32 @@ h2 {
 
 .instagram-icon {
   color: inherit;
+  padding-top: 5%;
   margin-top: 50px;
+  width: 50%;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .etsy-icon {
   color: inherit;
   padding-top: 5%;
   margin-top: 50px;
+  width: 50%;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .society6-icon {
   color: inherit;
   padding-top: 5%;
   margin-top: 50px;
+  width: 50%;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
 
 }
 
