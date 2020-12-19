@@ -33,12 +33,12 @@ img {
 
 
 #middle-container {
-  background-color: yellow;
   margin-top: 2%;
 }
 
 h2 {
   margin-bottom: 7%;
+  text-align: center;
 }
 
 .pic {
@@ -47,7 +47,13 @@ h2 {
 
 .recent-image {
   float: left;
+  margin-right: 30px;
 }
+
+p {
+  margin-top: 15px;
+}
+
 
 
 
