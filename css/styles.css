@@ -133,3 +133,10 @@ hr {
 
 
 /*********************** End Middle Section *****************************************/
+
+/*********************** Bottom Container Section Start *****************************/
+
+.bottom-container {
+  height: 150px;
+  background-color: #eff8ff;
+}
