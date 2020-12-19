@@ -37,7 +37,7 @@ img {
 
 /********************** Start Middle Section ***************************************/
 
-
+/* Recent Artwork Section */
 #middle-container {
   margin-top: 2%;
 }
@@ -60,11 +60,14 @@ h2 {
   margin: auto 0 auto 0;
 }
 
+/* End Recent Artwork Section */
+
+/* Start About Section */
 
 
-
-
-
+.about {
+  text-align: center;
+}
 
 
 
