@@ -2,8 +2,13 @@
 .top-page {
   background-color: #eff8ff;
 }
+
+.header {
+  padding-top: 1%;
+}
 img {
   width: 50%;
+  padding-bottom: 5%;
 }
 
 #largescreennav {
@@ -43,6 +48,7 @@ h2 {
 
 .pic {
   line-height: 2;
+  margin-top: 10%;
 }
 
 .recent-image {
