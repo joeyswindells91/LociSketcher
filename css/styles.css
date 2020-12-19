@@ -54,6 +54,10 @@ p {
   margin-top: 15px;
 }
 
+em {
+  margin-left: 10px;
+}
+
 .text {
   margin: auto 0 auto 0;
 }
