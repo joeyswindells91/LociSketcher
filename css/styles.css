@@ -155,7 +155,7 @@ hr {
 .about-summary {
   line-height: 2;
   display: inline-block;
-  margin: 0 auto o auto;
+  margin: 0 auto 10% auto;
   padding-right: 10%;
   padding-left: 10%;
   text-indent: 2em;
