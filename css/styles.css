@@ -1,3 +1,5 @@
+/****************** Title section ****************************/
+
 
 img {
   width: 50%;
@@ -24,8 +26,35 @@ img {
   }
 }
 
-/* @media (min-width: 991px) {
-  #smallscreennav {
-    display: inline-block;
-  }
-} */
+/*************************** End Title Section ********************************** */
+
+
+/********************** Start Middle Section ***************************************/
+
+
+#middle-container {
+  background-color: yellow;
+  margin-top: 2%;
+}
+
+h2 {
+  margin-bottom: 7%;
+}
+
+.images {
+  background-color: red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************** End Middle Section *****************************************/
