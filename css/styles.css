@@ -72,6 +72,11 @@ h2 {
   margin-bottom: 2%;
 }
 
+hr {
+  border: 1px solid black;
+  height: 3px;
+}
+
 .about-link {
   text-decoration: none;
   color: inherit;
