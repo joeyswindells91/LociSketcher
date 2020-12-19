@@ -140,3 +140,23 @@ hr {
   height: 150px;
   background-color: #eff8ff;
 }
+
+/***************************** Pages *************************/
+
+#about-heading {
+  margin-top: 5%;
+}
+
+.about-pic {
+ border-style: solid;
+ margin-bottom: 5%;
+}
+
+.about-summary {
+  line-height: 2;
+  display: inline-block;
+  margin: 0 auto o auto;
+  padding-right: 10%;
+  padding-left: 10%;
+  text-indent: 2em;
+}
