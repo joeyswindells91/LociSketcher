@@ -53,15 +53,11 @@ h2 {
 
 .recent-image {
   float: left;
-  margin-right: 30px;
+  margin-right: 1%;
 }
 
 p {
   margin-top: 15px;
-}
-
-em {
-  margin-left: 10px;
 }
 
 .text {
