@@ -145,10 +145,13 @@ hr {
 
 #about-heading {
   margin-top: 5%;
+  padding-bottom: 0;
 }
 
-.about-pic {
- margin-bottom: 5%;
+#about-pic {
+ border-style: solid;
+ padding-bottom: 0;
+ width: 60%;
 }
 
 .about-summary {
@@ -158,4 +161,16 @@ hr {
   padding-right: 10%;
   padding-left: 10%;
   text-indent: 2em;
+}
+
+ @media (max-width: 1000px) and (min-width: 700px) {
+  #about-pic {
+    width: 40%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .about-summary {
+    margin-top: 5%;
+  }
 }
