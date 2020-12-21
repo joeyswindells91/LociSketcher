@@ -172,6 +172,9 @@ hr {
   padding-left: 10%;
   text-indent: 2em;
 }
+#custom-pic {
+  width: 25%;
+}
 
  @media (max-width: 1000px) and (min-width: 700px) {
   #about-pic {
