@@ -168,8 +168,8 @@ hr {
   line-height: 2;
   display: inline-block;
   margin: 0 auto 10% auto;
-  padding-right: 10%;
-  padding-left: 10%;
+  padding-right: 20%;
+  padding-left: 20%;
   text-indent: 2em;
 }
 #custom-pic {
@@ -188,5 +188,8 @@ hr {
   }
 }
 
+a {
+  text-decoration: none;
+}
 
 /* gallery */
