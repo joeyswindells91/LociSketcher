@@ -139,6 +139,11 @@ hr {
 .bottom-container {
   height: 150px;
   background-color: #eff8ff;
+  text-align: center;
+}
+
+.backtotop-link {
+  margin-top: 5%;
 }
 
 /***************************** Pages *************************/
@@ -173,7 +178,7 @@ hr {
   text-indent: 2em;
 }
 #custom-pic {
-  width: 25%;
+  width: 37%;
 }
 
  @media (max-width: 1000px) and (min-width: 700px) {
