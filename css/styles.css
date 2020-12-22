@@ -198,3 +198,12 @@ a {
 }
 
 /* gallery */
+
+
+.heading-text {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.body-text {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
