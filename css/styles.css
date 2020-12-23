@@ -1,6 +1,10 @@
 /****************** Title section ****************************/
+body {
+  background-color:	#ECE5DA
+}
+
 .top-page {
-  background-color: 	#ECE5DA;
+  /* background-color: 	#ECE5DA; */
 }
 
 .header {
