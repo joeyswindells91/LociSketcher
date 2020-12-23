@@ -1,6 +1,6 @@
 /****************** Title section ****************************/
 .top-page {
-  background-color: #eff8ff;
+  background-color: 	#ECE5DA;
 }
 
 .header {
@@ -137,7 +137,7 @@ hr {
 
 .bottom-container {
   height: 150px;
-  background-color: #eff8ff;
+  background-color: #E57373;
   text-align: center;
 }
 
@@ -202,8 +202,10 @@ a {
 
 .heading-text {
   font-family: 'Montserrat', sans-serif;
+  color: #121F32;
 }
 
 .body-text {
   font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #121F32;
 }
