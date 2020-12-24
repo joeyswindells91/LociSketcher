@@ -1,10 +1,11 @@
 /****************** Title section ****************************/
 body {
-  background-color:	#ECE5DA
+  background-color:	#eeebe6;
+  margin-bottom: 0;
 }
 
 .top-page {
-  /* background-color: 	#ECE5DA; */
+   background-color: #96b1ee;
 }
 
 .header {
@@ -141,7 +142,7 @@ hr {
 
 .bottom-container {
   height: 150px;
-  background-color: #E57373;
+  background-color: #96b1ee;
   text-align: center;
 }
 
@@ -212,4 +213,8 @@ a {
 .body-text {
   font-family: 'Helvetica', 'Arial', sans-serif;
   color: #121F32;
+}
+
+.footer-icon {
+  color: inherit;
 }
