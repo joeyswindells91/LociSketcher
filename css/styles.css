@@ -179,7 +179,7 @@ hr {
   margin: 0 auto 10% auto;
   padding-right: 20%;
   padding-left: 20%;
-  text-indent: 2em;
+  /* text-indent: 2em; */
   font-size: 1.4rem;
 }
 #custom-pic {
