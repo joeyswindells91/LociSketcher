@@ -206,16 +206,28 @@ a {
 
 
 .heading-text {
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'EB Garamond', serif;
   color: #121F32;
+  text-align: justify;
 }
 
 .body-text {
-  font-family: 'Helvetica', 'Arial', sans-serif;
+  /* font-family: 'Helvetica', 'Arial', sans-serif; */
+  font-family: 'Darker Grotesque', sans-serif;
   color: #121F32;
+  text-align: justify;
 }
 
 .footer-icon {
   color: inherit;
+}
+
+.copyright {
+  font-family: 'EB Garamond', serif;
+}
+
+.w-75 {
+  margin: auto;
 }
 
