@@ -59,6 +59,11 @@ h2 {
   margin-top: 10%;
 }
 
+.link-column {
+  line-height: 2;
+  margin-top: 6%;
+}
+
 .recent-image {
   float: left;
   margin-right: 1%;
