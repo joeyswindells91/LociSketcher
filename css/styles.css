@@ -223,6 +223,7 @@ a {
 .section-text {
   font-family: 'Darker Grotesque', sans-serif;
   color: #121F32;
+  font-weight: bold;
 }
 
 .body-text {
