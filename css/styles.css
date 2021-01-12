@@ -6,6 +6,7 @@ body {
 
 .top-page {
    background-color: #eeebe6;
+   /* font-stretch: expanded; */
 }
 
 .header {
@@ -209,11 +210,14 @@ a {
 
 /* gallery */
 
-
+.display-1 {
+  letter-spacing: 2.5rem;
+}
 .heading-text {
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'EB Garamond', serif;
   color: #121F32;
+
 }
 
 .section-text {
@@ -228,6 +232,10 @@ a {
   text-align: justify;
 }
 
+.bottom-title {
+  letter-spacing: 1.5rem;
+}
+
 .footer-icon {
   color: inherit;
 }
@@ -239,5 +247,9 @@ a {
 
 .w-75 {
   margin: auto;
+}
+
+span {
+  /* font-stretch: expanded; */
 }
 
