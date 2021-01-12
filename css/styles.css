@@ -216,6 +216,11 @@ a {
   color: #121F32;
 }
 
+.section-text {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #121F32;
+}
+
 .body-text {
   /* font-family: 'Helvetica', 'Arial', sans-serif; */
   font-family: 'Darker Grotesque', sans-serif;
